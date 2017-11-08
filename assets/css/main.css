@@ -1,0 +1,30 @@
+body{
+	margin: 0 auto;
+	font-family: Arial;
+	background-color: #1A8EC2;
+
+}
+header{
+	text-align: center;
+	background-color: #026AA7;
+	color: #CCE1ED;
+	padding: 0.01em;
+}
+.fa-trello{
+	margin-right: 0.3em;
+}
+h2{
+	margin-left: 1em;
+	color: white;
+}
+#add-list{
+	color: white;
+	background-color: #026AA7;
+	width: 15em;
+	padding: 0.5em;
+	margin-left: 1em;
+}
+.hidden{
+	display: none;
+}
+
